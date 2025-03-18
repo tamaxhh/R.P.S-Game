@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game
+# Rock-Paper-Scissor Game
 
 ## 🎮 About the Game
 This is a simple **Rock-Paper-Scissors** game built using Python. The player competes against the computer in a classic battle of Rock, Paper, and Scissors!
